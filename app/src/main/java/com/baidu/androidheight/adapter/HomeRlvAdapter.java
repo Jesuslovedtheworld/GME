@@ -24,7 +24,8 @@ import com.bumptech.glide.request.RequestOptions;
 import java.util.ArrayList;
 
 public class HomeRlvAdapter extends RecyclerView.Adapter<HomeRlvAdapter.VH>{
-	private String a = "�ڼ��±�������ĳ�ͻ";
+	private String a = "在记事本上制造的冲突";
+    private String a = "在github上修改的数据   制造冲突";
     private ArrayList<HomeBean.DataBean.DatasBean> arr;
     private Context context;
 
